@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
+- 👩‍💻 All of my projects are available at https://ilyassatlassi.github.io/portfolio/
+
 - 💬 Ask me about **javascript,React**
 
 - 📫 How to reach me **atlassiilyass@gmail.com**
