@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👩‍💻 All of my projects are available at https://ilyassatlassi.github.io/portfolio/
+- 👩‍💻 All of my projects are available at https://portfolio-2024-eta.vercel.app/
 
-- 💬 Ask me about **javascript,React**
+- 💬 Ask me about **javascript,React,Next.js**
 
 - 📫 How to reach me **atlassiilyass@gmail.com**
 
